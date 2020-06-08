@@ -80,7 +80,7 @@ class Solution {
 
 [leetcode-322](<https://leetcode-cn.com/problems/coin-change/>)
 
-![image-20200527194500840](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200527194500840.png)
+![image-20200527194500840](../pics/image-20200527194500840.png)
 
 ```java
 class Solution {
@@ -107,7 +107,7 @@ class Solution {
 
 [leetcode-983](<https://leetcode-cn.com/problems/minimum-cost-for-tickets/>)
 
-![image-20200527195808850](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200527195808850.png)
+![image-20200527195808850](../pics/image-20200527195808850.png)
 
 ```java
 class Solution {
@@ -140,7 +140,7 @@ class Solution {
 
 [leetcode-300](<https://leetcode-cn.com/problems/longest-increasing-subsequence/>)
 
-![image-20200528090130354](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528090130354.png)
+![image-20200528090130354](../pics/image-20200528090130354.png)
 
 ```java
 class Solution {
@@ -226,11 +226,11 @@ for(int i = 1; i < m; i++) {
 
 
 
-![image-20200528105400401](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528105400401.png)
+![image-20200528105400401](../pics/image-20200528105400401.png)
 
 [leetcode-72](<https://leetcode-cn.com/problems/edit-distance/>)
 
-![image-20200528094211103](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528094211103.png)
+![image-20200528094211103](../pics/image-20200528094211103.png)
 
 
 
@@ -263,7 +263,7 @@ class Solution {
 
 [leetcode-1143](<https://leetcode-cn.com/problems/longest-common-subsequence/>)
 
-![image-20200528094420397](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528094420397.png)
+![image-20200528094420397](../pics/image-20200528094420397.png)
 
 **遍历顺序**
 
@@ -299,7 +299,7 @@ class Solution {
 
 [leetcode-5](<https://leetcode-cn.com/problems/longest-palindromic-substring/>)
 
-![image-20200528103319299](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528103319299.png)
+![image-20200528103319299](../pics/image-20200528103319299.png)
 
 **遍历顺序**
 
@@ -348,7 +348,7 @@ class Solution {
 
 [leetcode-516](<https://leetcode-cn.com/problems/longest-palindromic-subsequence/>)
 
-![image-20200528112617143](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528112617143.png)
+![image-20200528112617143](../pics/image-20200528112617143.png)
 
 **遍历顺序**
 
@@ -393,7 +393,7 @@ class Solution {
 
 [leetcode-647](<https://leetcode-cn.com/problems/palindromic-substrings/>)
 
-![image-20200528115122805](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528115122805.png)
+![image-20200528115122805](../pics/image-20200528115122805.png)
 
 **遍历顺序**
 
@@ -444,7 +444,7 @@ class Solution {
 
 [leetcode-198](<https://leetcode-cn.com/problems/house-robber/>)
 
-![image-20200528141413710](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528141413710.png)
+![image-20200528141413710](../pics/image-20200528141413710.png)
 
 **分析**
 
@@ -493,7 +493,7 @@ class Solution {
 
 [leetcode-213](<https://leetcode-cn.com/problems/house-robber-ii/>)
 
-![image-20200528144155204](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528144155204.png)
+![image-20200528144155204](../pics/image-20200528144155204.png)
 
 **分析**
 
@@ -531,7 +531,7 @@ class Solution {
 
 [leetcode-337](<https://leetcode-cn.com/problems/house-robber-iii/>)
 
-![image-20200528151005099](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528151005099.png)
+![image-20200528151005099](../pics/image-20200528151005099.png)
 
 **分析**
 
@@ -587,7 +587,7 @@ class Solution {
 
 [leetcode-887](<https://leetcode-cn.com/problems/super-egg-drop/>)
 
-![image-20200528171726268](/Users/tulingfeng/Library/Application Support/typora-user-images/image-20200528171726268.png)
+![image-20200528171726268](../pics/image-20200528171726268.png)
 
 **分析**
 
